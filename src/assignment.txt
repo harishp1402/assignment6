@@ -1,0 +1,1 @@
+created a common method to handle different types of file
